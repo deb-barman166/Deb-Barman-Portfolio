@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Deb Barman — Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, high-performance personal portfolio website built with **React + Vite**, showcasing my skills, projects, articles, and experience in a clean and interactive way.
 
-This contains everything you need to run your app locally.
+🚀 **Live Demo:** https://deb-barman166.github.io/Deb-Barman-Portfolio/
 
-View your app in AI Studio: https://ai.studio/apps/drive/1QVsqL0iAtQ3AN9LGYagzd8xnHKF8gNcV
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- ⚡ Built with **Vite** for ultra-fast performance
+- ⚛️ **React + TypeScript** based architecture
+- 🎨 Modern UI with responsive design
+- 🧩 Modular component structure (`components`, `services`, `types`)
+- 📊 Skill, project, article & experience sections
+- 🤖 Optional AI/Chat feature (API-key based, secure)
+- 🔒 Environment variable support for API keys
+- 🌍 Deployed for free using **GitHub Pages + GitHub Actions**
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- **Frontend:** React, TypeScript
+- **Build Tool:** Vite
+- **Styling:** CSS / Tailwind (if applicable)
+- **Icons:** Lucide Icons
+- **Deployment:** GitHub Pages
+- **CI/CD:** GitHub Actions
+
+---
